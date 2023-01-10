@@ -1,8 +1,8 @@
 # Welcome to my GitHub page 👋
 
-I am Gustavo, a junior frontend developer with a great interest in learning and improving my web development skills. On this page, you will find a variety of personal and practice projects that I have worked on, as well as any open-source code that I have contributed to.
+I'm Gustavo, a junior frontend developer with a great interest in learning and improving my web development skills. On this page, you will find a variety of personal and practice projects that I have worked on, as well as any open-source code that I have contributed to.
 
-## Technologies I work with 💻
+## Technologies 💻
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
