@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-I'm Gustavo, a junior frontend developer with a great interest in learning and improving my web development skills. On this page, you will find a variety of personal and practice projects that I have worked on, as well as any open-source code that I have contributed to.
+I'm Gustavo, a Fullstack developer with a great interest in learning and improving my web development skills. On this page, you will find a variety of personal and practice projects that I have worked on, as well as any open-source code that I have contributed to.
 
 ## Technologies 💻
 
