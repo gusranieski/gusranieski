@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-I'm Gustavo, a Fullstack developer with a great interest in learning and improving my web development skills. On this page, you will find a variety of personal and practice projects that I have worked on, as well as any open-source code that I have contributed to.
+I'm Gustavo, a Full Stack MERN with a great interest in learning and improving my web development skills. On this page, you will find a variety of personal and practice projects that I have worked on, as well as any open-source code that I have contributed to.
 
 ## Technologies 💻
 
@@ -15,5 +15,6 @@ I'm Gustavo, a Fullstack developer with a great interest in learning and improvi
 ### Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
 
 If you have any questions or want to work on a project together, feel free to contact me. Thank you for visiting my page! ✨
