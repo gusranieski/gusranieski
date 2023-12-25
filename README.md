@@ -19,6 +19,5 @@ I'm Gustavo, a Full Stack MERN with a great interest in learning and improving m
 ![Express](https://img.shields.io/badge/Express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
 If you have any questions or want to work on a project together, feel free to contact me. Thank you for visiting my page! ✨
